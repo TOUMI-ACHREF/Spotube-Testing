@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>pre:
+ *searchView
+
+VALID TEST</description>
+   <name>SongLyricsTC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2c290594-fc05-4ae0-94fa-3e7d0f30c7bc</testCaseGuid>
+</TestCaseEntity>

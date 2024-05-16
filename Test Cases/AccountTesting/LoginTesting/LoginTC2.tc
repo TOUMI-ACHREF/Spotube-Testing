@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>input :
+	Correct Email : testlogicielprojet@gmail.com
+	Wrong password : 123456
+Expected : 
+	Alert Showing that the user name or password is
+	incorrect.
+
+VALID TEST</description>
+   <name>LoginTC2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ada1ba25-a8d5-496e-bb44-e848e73df0c2</testCaseGuid>
+</TestCaseEntity>

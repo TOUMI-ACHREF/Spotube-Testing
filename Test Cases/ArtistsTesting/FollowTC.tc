@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>pre:
+ *search View
+
+VALID TEST</description>
+   <name>FollowTC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b83d4173-61e5-4ea9-9037-126f2092b7cd</testCaseGuid>
+</TestCaseEntity>

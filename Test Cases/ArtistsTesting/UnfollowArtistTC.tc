@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>pre:
+ *search View
+
+VALID TEST</description>
+   <name>UnfollowArtistTC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4eb689af-41df-4b5a-855a-8f79d0c75cd1</testCaseGuid>
+</TestCaseEntity>

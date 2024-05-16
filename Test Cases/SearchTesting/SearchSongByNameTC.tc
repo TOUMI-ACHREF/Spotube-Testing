@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>PRE:
+  *loged in
+  *Search view</description>
+   <name>SearchSongByNameTC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db172f7f-f45e-427c-b520-e867448c4760</testCaseGuid>
+</TestCaseEntity>

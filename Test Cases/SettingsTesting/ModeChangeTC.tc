@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Preconditions
+	*Settings
+	*loged in
+	*tous : System
+
+VALID TEST</description>
+   <name>ModeChangeTC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0cb1654f-5d22-4a7c-9608-f872087272ea</testCaseGuid>
+</TestCaseEntity>

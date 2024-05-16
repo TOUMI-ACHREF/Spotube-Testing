@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>input :
+	Wrong user name : projet
+	Wrong password : 123456
+Expected : 
+	Alert Showing that the user name or password is
+	incorrect.
+
+VALID TEST</description>
+   <name>LoginTC1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7e37533e-93fb-4cec-837d-fc2160843c86</testCaseGuid>
+</TestCaseEntity>

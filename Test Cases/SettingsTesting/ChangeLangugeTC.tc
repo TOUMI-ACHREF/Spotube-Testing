@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>pre conditions 
+   * logged in
+   * theme system
+    *languge system
+
+VALID TEST</description>
+   <name>ChangeLangugeTC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8e1d6048-e907-4c53-8166-e7c8bb40f8ce</testCaseGuid>
+</TestCaseEntity>

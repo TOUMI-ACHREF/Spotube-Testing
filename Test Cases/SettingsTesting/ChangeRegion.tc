@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Preconditions
+	*Settings
+	*Us
+	*loged in
+	*tous : System
+
+VALID TEST</description>
+   <name>ChangeRegion</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>816787a1-0b3a-426b-b5ca-d70db93043a1</testCaseGuid>
+</TestCaseEntity>

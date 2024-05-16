@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>pre:
+ *search View
+
+VALID TEST</description>
+   <name>BackgroundPlaySongTC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3ae9c745-a720-4b78-83cf-43a995fdba6c</testCaseGuid>
+</TestCaseEntity>

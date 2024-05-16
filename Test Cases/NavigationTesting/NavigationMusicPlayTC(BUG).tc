@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Expected : The Press back will return you to the  previous View (Settings).
+INVALID TEST (X)</description>
+   <name>NavigationMusicPlayTC(BUG)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>20a5a9d0-c598-4edd-8a18-24d1057a711c</testCaseGuid>
+</TestCaseEntity>

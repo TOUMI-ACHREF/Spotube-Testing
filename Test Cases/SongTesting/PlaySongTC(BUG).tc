@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>pre:
+  *searchView</description>
+   <name>PlaySongTC(BUG)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a41f23e8-81b6-44db-b622-1c6c3febfc27</testCaseGuid>
+</TestCaseEntity>

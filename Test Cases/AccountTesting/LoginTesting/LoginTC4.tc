@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>input :
+	Correct user name : testlogicielprojet@gmail.com
+	Correct password :  projet2024
+Expected : 
+	Valid login and switching to the next page.
+
+VALID TEST</description>
+   <name>LoginTC4</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d67eb8dc-05ec-4aa3-8023-16ae8746400f</testCaseGuid>
+</TestCaseEntity>
